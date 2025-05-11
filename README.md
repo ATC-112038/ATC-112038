@@ -6,9 +6,6 @@ I am ATC-112038. I specialise in langauges such as but not limited to: C++, CUDA
 I am currently working on coputational statistics and data projects, as well computational mathematics. 
 My most active development/repository is my Custom Cuda Kernel for sorting nets and deep belief networks. 
 
-See my tools/languages visually!:
-
-https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg
 
 <!---
 ATC-112038/ATC-112038 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
